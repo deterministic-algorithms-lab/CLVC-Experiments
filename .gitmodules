@@ -1,0 +1,4 @@
+[submodule "waveglow"]
+	path = waveglow
+	url = https://github.com/Jeevesh8/waveglow
+	branch = master

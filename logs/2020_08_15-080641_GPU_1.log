@@ -1,0 +1,7 @@
+FP16 Run: False
+Dynamic Loss Scaling: True
+Distributed Run: False
+cuDNN Enabled: True
+cuDNN Benchmark: False
+Warm starting model from checkpoint '../tacotron2_statedict.pt'
+Epoch: 0
